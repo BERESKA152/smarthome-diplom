@@ -126,7 +126,7 @@ const Order = async () => {
                         <img src="/smarthome-diplom/static/img/amex.jpg" id="amex">
                     </div>
                     <div class="form-group" id="pay-now">
-                        <button type="submit" class="btn btn-default" id="confirm-purchase">Подтвердить</button>
+                        <button type="submit" class="btn btn-default" id="confirm-purchase"><a href='/smarthome-diplom/static/js/views/probnik.html'>Подтвердить</a></button>
                     </div>
                 </form>
             </div>
