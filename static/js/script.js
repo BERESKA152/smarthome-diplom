@@ -6,11 +6,11 @@ import Delivery from './views/Delivery.js';
 import Contact from './views/Contact.js';
 import Order from './views/Order.js';
 import Placing from './views/Placing.js';
-import Yandex2 from './Catalog/Yandex2.js';
-import Chainiksimple from './Catalog/Chainiksimple.js';
-import Ventilatordeerma from './Catalog/Ventilatordeerma.js';
-import Robotpol from './Catalog/Robotpol.js';
-import Routerax from './Catalog/Routerax.js';
+import Yandex2 from './catalog/Yandex2.js';
+import Chainiksimple from './catalog/Chainiksimple.js';
+import Ventilatordeerma from './catalog/Ventilatordeerma.js';
+import Robotpol from './catalog/Robotpol.js';
+import Routerax from './catalog/Routerax.js';
 
 const navigateTo = (url) => {
     history.pushState(null, null, url);
