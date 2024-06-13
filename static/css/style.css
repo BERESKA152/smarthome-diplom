@@ -1494,21 +1494,7 @@ label[for="first-name"]:after, label[for="phone-number"]:after, label[for="locat
   }
 }
 
-
-.button-back {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
-
-.button-back a {
-  background-color: red;
+.cvet{
   color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  display: inline-block;
 }
 
-.button-back a:hover {
-  transform: scale(1.1);
-}
