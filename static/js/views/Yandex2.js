@@ -14,7 +14,7 @@ const Yandex2 = async () => {
                 </div>
                 <div class="roww">
                     <div class="col-lg-5 col-md-6 cosmetic-img">
-                        <img src="../static/img/yandex.png" alt="yandex">
+                        <img src="/smarthome-diplom/static/img/yandex.png" alt="yandex">
                     </div>
                     
                     <div class="col-lg-7 col-md-6 cosmetic-info">

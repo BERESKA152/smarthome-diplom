@@ -39,50 +39,50 @@ const Home = async () => {
                         <h3 class="goods__item--title"><a href="/yandex2" data-link> Умная колонка Яндекс Alisa 2</a></h3>
                         <p class="shop__card--price1">BYN 659</p>
                     </div>
-                    <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
+                    <img class="goods__item--pic img-responsive" src="/smarthome-diplom/static/img/yandexstn.png" alt="">
                 </div>
                 </div>
 
-                <a href="/smarthome-diplom/static/catalog/chainiksimple" class="goods__item--02">
+                <div class="goods__item--02">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Чайники</p>
-                    <h3 class="goods__item--title">Чайник Xiaomi Simple</h3>
+                    <h3 class="goods__item--title"><a href="/chainiksimple" data-link>Чайник Xiaomi Simple</a></h3>
                     <p class="shop__card--price2">BYN 99</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="../static/img/chainik.png" alt="">
+                <img class="goods__item--pic img-responsive" src="/smarthome-diplom/static/img/chainik.png" alt="">
             </div>
-            </a>
-            <a href="/smarthome-diplom/static/catalog/ventilatordeerma" class="goods__item--03">
+            </div>
+            <div class="goods__item--03">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Вентиляторы</p>
-                    <h3 class="goods__item--title">Вентилятор Deerma DEM FD15W</h3>
+                    <h3 class="goods__item--title"><a href="/ventilatordeerma" data-link>Вентилятор Deerma DEM FD15W</a></h3>
                     <p class="shop__card--price3">BYN 149</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="../static/img/ventilator1.png" alt="">
+                <img class="goods__item--pic img-responsive" src="/smarthome-diplom/static/img/ventilator1.png" alt="">
             </div>
-            </a>
-            <a href="/smarthome-diplom/static/catalog/robotpol" class="goods__item--04">
+            </div>
+            <div class="goods__item--04">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Роботы-пылесосы</p>
-                    <h3 class="goods__item--title">Робот-пылесос Dreame F9 Pro</h3>
+                    <h3 class="goods__item--title"><a href="/robotpol" data-link>Робот-пылесос Dreame F9 Pro</a></h3>
                     <p class="shop__card--price4">BYN 459</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="../static/img/polesos1.png" alt="">
+                <img class="goods__item--pic img-responsive" src="/smarthome-diplom/static/img/polesos1.png" alt="">
             </div>
-            </a>
-            <a href="/smarthome-diplom/static/catalog/routerax" class="goods__item--05">
+            </div>
+            <div class="goods__item--05">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Wi-Fi</p>
-                    <h3 class="goods__item--title">Роутер Xiaomi Mi Router AX3200</h3>
+                    <h3 class="goods__item--title"><a href="/routerax" data-link>Роутер Xiaomi Mi Router AX3200</a></h3>
                     <p class="shop__card--price4">BYN 249</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="../static/img/router.png" alt="">
+                <img class="goods__item--pic img-responsive" src="/smarthome-diplom/static/img/router.png" alt="">
             </div>
-            </a>
+            </div>
         </div>
     </section>
 
