@@ -32,7 +32,14 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/yandex2" data-link> class="goods__item--01">assasasaassasa</a>
+                <a href="/yandex2" data-link class="goods__item--01"><div class="goods__item">
+                    <div class="goods__item--desc">
+                        <p class="goods__item--tag">Станции</p>
+                        <h3 class="goods__item--title">Умная колонка Яндекс Alisa 2</h3>
+                        <p class="shop__card--price1">BYN 659</p>
+                    </div>
+                    <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
+                </div></a>
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>
