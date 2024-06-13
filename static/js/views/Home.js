@@ -32,7 +32,7 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/smarthome-diplom/static/catalog/yandex2" class="goods__item--01">
+                <a href="/yandex2" data-link class="goods__item--01">
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>
