@@ -501,16 +501,14 @@ html:has(.cart__open) main > *:not(.cart) {
   transition-property: opacity, box-shadow; /* Обновлено: добавлен переход для box-shadow */
   cursor: pointer; /* Изменение курсора при наведении */
   border-radius: 50%; /* Добавлено: чтобы подсветка была круглой */
+  position: relative;
+  background-image: url(../img/shopping-cart-white.svg);
 }
 
 .header__icons--item:hover {
   box-shadow: 0 0 10px red; /* Красная подсветка вокруг иконки при наведении */
 }
 
-.header__icons--item:first-child {
-  position: relative;
-  background-image: url(../img/shopping-cart-white.svg);
-}
 
 
 
