@@ -512,9 +512,6 @@ html:has(.cart__open) main > *:not(.cart) {
   background-image: url(../img/shopping-cart-white.svg);
 }
 
-.header__icons--item:last-child {
-  background-image: url(../img/header-fox-icon-white.svg);
-}
 
 
 .header__icons--total-label {
