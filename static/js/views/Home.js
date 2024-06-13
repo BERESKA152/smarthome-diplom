@@ -32,7 +32,7 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/yandex2" data-link class="goods__item--01">
+                <a href="/yandex2" data-link> class="goods__item--01">assasasaassasa</a>
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>
@@ -41,7 +41,7 @@ const Home = async () => {
                     </div>
                     <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
                 </div>
-                </a>
+                
 
                 <a href="/smarthome-diplom/static/views/chainiksimple" data-link class="goods__item--02">
             <div class="goods__item">
