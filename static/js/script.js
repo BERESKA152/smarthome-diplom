@@ -30,11 +30,11 @@ const router = async () => {
         { path: '/contact', view: Contact },
         { path: '/order', view: Order },
         { path: '/placing', view: Placing },
-        { path: '/yandex2', view: Yandex2 },
         { path: '/chainiksimple', view: Chainiksimple },
         { path: '/ventilatordeerma', view: Ventilatordeerma },
         { path: '/robotpol', view: Robotpol },
         { path: '/routerax', view: Routerax },
+        { path: '/yandex2', view: Yandex2 },
 
 
     ]
@@ -62,6 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.addEventListener('click', e => {
         if (e.target.matches('[data-link]')) {
             e.preventDefault();
+            console.log('ssilka verna')
             navigateTo(e.target.href)
         }
     })

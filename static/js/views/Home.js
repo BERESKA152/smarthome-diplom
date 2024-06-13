@@ -43,7 +43,7 @@ const Home = async () => {
                 </div>
                 </a>
 
-                <a href="/smarthome-diplom/static/catalog/chainiksimple" class="goods__item--02">
+                <a href="/smarthome-diplom/static/views/chainiksimple" data-link class="goods__item--02">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Чайники</p>
