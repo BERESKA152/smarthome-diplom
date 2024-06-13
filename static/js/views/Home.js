@@ -21,7 +21,7 @@ const Home = async () => {
         <section class="intro">
         <div class="container">
             <h1 class="intro__title">SMART HOME</h1>
-            <p class="intro__desc">"У нас техника настолько умная, что она даже знает, когда вам нужен кофе"</p>
+            <p class="intro__desc">"У нас техника настолько умная, что она даже знает, когда вам нужен кофе" </p>
             <a href="/history" data-link class="home-page-link">Подробнее</a>
         </div>
     </section>

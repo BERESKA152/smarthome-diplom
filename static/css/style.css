@@ -546,7 +546,7 @@ html:has(.cart__open) main > *:not(.cart) {
 }
 
 html:has(.goods) .header__menu a:hover {
-    color: red;
+    color: red; 
 }
 
 
