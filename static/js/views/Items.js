@@ -1,7 +1,7 @@
 const Items = async () => {
     const getProducts = async () => {
-        fetch('static/items.json')
-        const request = await fetch('static/items.json');
+        fetch('smarthome-diplom/static/items.json')
+        const request = await fetch('smarthome-diplom/static/items.json');
         const response = await request.json()
         return response
     }
@@ -14,7 +14,7 @@ const Items = async () => {
         <section class="hero">
         <div class="container">
             <p class="hero__links">
-                <a href="/">Главная</a>→<a href="/items">Каталог товаров</a>
+                <a href="/smarthome-diplom/static/">Главная</a>→<a href="/items">Каталог товаров</a>
             </p>
             <h2 class="hero__title">КАТАЛОГ ТОВАРОВ</h2>
         </div>
