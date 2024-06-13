@@ -549,12 +549,7 @@ html:has(.goods) .header__menu a:hover {
     color: red;
 }
 
-  html:has(.goods) .header__icons--item:first-child {
-    background-image: url(../img/shopping-cart-white.svg);
-  }
-  html:has(.goods) .header__icons--item:last-child {
-    background-image: url(../img/header-fox-icon-white.svg);
-  }
+
   .header {
     padding: 37px 0;
     background-color: #f1f1f1;
@@ -579,12 +574,7 @@ html:has(.goods) .header__menu a:hover {
   .header__btn {
     display: none;
   }
-  .header__icons--item:first-child {
-    background-image: url(../img/shopping-cart-black.svg);
-  }
-  .header__icons--item:last-child {
-    background-image: url(../img/header-fox-icon-black.svg);
-  }
+
 }
 .hero {
   margin-top: 37px;
