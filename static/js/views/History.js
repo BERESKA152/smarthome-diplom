@@ -6,7 +6,7 @@ const History = async () => {
         <section class="hero">
             <div class="container">
                 <p class="hero__links">
-                    <a href="/">Главная</a>→<a href="/history">О компании</a>
+                    <a href="/" data-link>Главная</a>→<a href="/history data-link">О компании</a>
                 </p>
                 <h2 class="hero__title">О КОМПАНИИ</h2>
             </div>

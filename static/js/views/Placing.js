@@ -30,7 +30,7 @@ const Placing = async () => {
                     </div>
 
                     <div class="form-group" id="pay-now">
-                        <a href="/order" class="btn btn-default" id="confirm-purchase">Далее</a>
+                        <a href="/order" data-link class="btn btn-default" id="confirm-purchase">Далее</a>
                     </div>
                 </form>
             </div>

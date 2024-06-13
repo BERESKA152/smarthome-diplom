@@ -32,7 +32,7 @@ const Routerax = async () => {
                             </p>
                         </div>
                         <div class="button-click">
-                            <button class="buttonclick" onclick="location.href='/placing'">Купить онлайн</button>
+                            <button class="buttonclick" onclick="location.href='/placing'" data-link>Купить онлайн</button>
 
                             <button class="buttonclick shop__card--btn" data-product-add="1003">Добавить в корзину</button>
                         </div>

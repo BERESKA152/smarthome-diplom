@@ -6,7 +6,7 @@ const Payment = async () => {
         <section class="hero">
             <div class="container">
                 <p class="hero__links">
-                    <a href="/">Главная</a> → <a href="/payment">Оплата</a>
+                    <a href="/" data-link>Главная</a> → <a href="/payment" data-link>Оплата</a>
                 </p>
                 <h2 class="hero__title">ОПЛАТА</h2>
             </div>

@@ -6,7 +6,7 @@ const Contact = async () => {
         <section class="hero">
             <div class="container">
                 <p class="hero__links">
-                    <a href="/">Главная</a>→<a href="/Contact">Контакты</a>
+                    <a href="/" data-link>Главная</a>→<a href="/Contact" data-link>Контакты</a>
                 </p>
                 <h2 class="hero__title">КОНТАКТЫ</h2>
             </div>
