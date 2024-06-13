@@ -22,7 +22,7 @@ const Home = async () => {
         <div class="container">
             <h1 class="intro__title">SMART HOME</h1>
             <p class="intro__desc">"У нас техника настолько умная, что она даже знает, когда вам нужен кофе"</p>
-            <a href="/history" class="home-page-link">Подробнее</a>
+            <a href="/smarthome-diplom/static/history" class="home-page-link">Подробнее</a>
         </div>
     </section>
 
@@ -32,7 +32,7 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/yandex2" class="goods__item--01">
+                <a href="/smarthome-diplom/static/yandex2" class="goods__item--01">
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>

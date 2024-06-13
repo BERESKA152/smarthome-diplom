@@ -78,7 +78,7 @@ const Items = async () => {
             cardWrapper.appendChild(imgWrapper)
             const imgProduct = document.createElement('img');
             imgProduct.classList.add('img-responsive')
-            imgProduct.src = `static/img/${product.photo}`;
+            imgProduct.src = `smarthome-diplom/static/img/${product.photo}`;
             imgWrapper.appendChild(imgProduct);
             const btn = document.createElement('button');
             btn.classList.add('shop__card--btn');
