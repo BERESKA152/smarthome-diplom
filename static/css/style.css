@@ -1507,7 +1507,6 @@ label[for="first-name"]:after, label[for="phone-number"]:after, label[for="locat
   padding: 10px 20px;
   text-decoration: none;
   display: inline-block;
-  transition: transform 0.3s ease;
 }
 
 .button-back a:hover {
