@@ -39,7 +39,7 @@ const Home = async () => {
                         <h3 class="goods__item--title">Умная колонка Яндекс Alisa 2</h3>
                         <p class="shop__card--price1">BYN 659</p>
                     </div>
-                    <img class="goods__item--pic img-responsive" src="/static/img/yandexstn.png" alt="">
+                    <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
                 </div>
                 </a>
 
@@ -50,7 +50,7 @@ const Home = async () => {
                     <h3 class="goods__item--title">Чайник Xiaomi Simple</h3>
                     <p class="shop__card--price2">BYN 99</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="/static/img/chainik.png" alt="">
+                <img class="goods__item--pic img-responsive" src="../static/img/chainik.png" alt="">
             </div>
             </a>
             <a href="/ventilatordeerma" class="goods__item--03">
@@ -60,7 +60,7 @@ const Home = async () => {
                     <h3 class="goods__item--title">Вентилятор Deerma DEM FD15W</h3>
                     <p class="shop__card--price3">BYN 149</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="/static/img/ventilator1.png" alt="">
+                <img class="goods__item--pic img-responsive" src="../static/img/ventilator1.png" alt="">
             </div>
             </a>
             <a href="/robotpol" class="goods__item--04">
@@ -70,7 +70,7 @@ const Home = async () => {
                     <h3 class="goods__item--title">Робот-пылесос Dreame F9 Pro</h3>
                     <p class="shop__card--price4">BYN 459</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="/static/img/polesos1.png" alt="">
+                <img class="goods__item--pic img-responsive" src="../static/img/polesos1.png" alt="">
             </div>
             </a>
             <a href="/routerax" class="goods__item--05">
@@ -80,7 +80,7 @@ const Home = async () => {
                     <h3 class="goods__item--title">Роутер Xiaomi Mi Router AX3200</h3>
                     <p class="shop__card--price4">BYN 249</p>
                 </div>
-                <img class="goods__item--pic img-responsive" src="/static/img/router.png" alt="">
+                <img class="goods__item--pic img-responsive" src="../static/img/router.png" alt="">
             </div>
             </a>
         </div>

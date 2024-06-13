@@ -14,7 +14,7 @@ const Robotpol = async () => {
                 </div>
                 <div class="roww">
                     <div class="col-lg-5 col-md-6 cosmetic-img">
-                        <img src="/static/img/vacum1.png" alt="yandex">
+                        <img src="../static/img/vacum1.png" alt="yandex">
                     </div>
                     
                     <div class="col-lg-7 col-md-6 cosmetic-info">

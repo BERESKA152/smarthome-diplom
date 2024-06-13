@@ -121,9 +121,9 @@ const Order = async () => {
                         </select>
                     </div>
                     <div class="form-group" id="credit_cards">
-                        <img src="/static/img/visa.jpg" id="visa">
-                        <img src="/static/img/mastercard.jpg" id="mastercard">
-                        <img src="/static/img/amex.jpg" id="amex">
+                        <img src="../static/img/visa.jpg" id="visa">
+                        <img src="../static/img/mastercard.jpg" id="mastercard">
+                        <img src="../static/img/amex.jpg" id="amex">
                     </div>
                     <div class="form-group" id="pay-now">
                         <button type="submit" class="btn btn-default" id="confirm-purchase">Подтвердить</button>
