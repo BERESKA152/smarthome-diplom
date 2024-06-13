@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../static/img/ec.ico" type="image/x-icon">
+    <title>E-commerce</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container header__wrapper">
+            <a class="header__logo" href="/home"></a>
+            <nav>
+                <ul class="header__menu" data-mobile-menu>
+                    <!-- ТУТ УКАЗЫВАЕШЬ ССЫЛКИ НА СТРАНИЦЕ В НАВБАРЕ -->
+                    <li><a href="/" data-link>ГЛАВНАЯ</li>
+                    <li><a href="/items" data-link>КАТАЛОГ ТОВАРОВ</a></li>
+                    <li><a href="/history" data-link>О КОМПАНИИ</a></li>
+                    <li><a href="/payment" data-link>ОПЛАТА</a></li>
+                    <li><a href="/delivery" data-link>ДОСТАВКА</a></li>
+                    <li><a href="/contact" data-link>КОНТАКТЫ</a></li>
+                    <li><a href="/routerax" data-link>Пример карточек</a></li>
+                </ul>
+                <button class="header__btn" data-menu-btn></button>
+            </nav>
+            <div class="header__icons" data-header-icons>
+                <button class="header__icons--item" data-cart-icon>
+                    <span class="header__icons--total-label" id="len-cart"></span>
+                </button>
+                <a class="header__icons--item" href="/shop"></a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section class="cart container" data-cart>
+            <button class="cart__btn-close" data-cart-btn-close></button>
+            <div class="cart__top">
+                <h2>Корзина</h2>
+            </div>
+            <div class="cart__wrapper" data-cart-container>
+            </div>
+            <div class="cart__bottom">
+                <p class="cart__bottom--price">Итого: <span>BYN<span data-total-sum>0</span></span></p>
+                <a class="cart__bottom--btn" href="/placing">Оформить заказ</a>
+            </div>
+        </section>
+        <div id="root"></div>
+    </main>
+    <footer class="footer">
+        <div class="container footer__top">
+            <div class="footer__desc">
+                <a class="footer__logo" href="#"><img src="/static/img/footer-logo.svg" alt=""></a>
+                <p class="footer__desc--text">ООО "SMART", УНП 193613478 </p>
+                <p>Регистрация в Торговом Реестре РБ от 18 марта 2024 года</p>
+                <p>Все права защищены © 2024</p>
+                <pre></pre>
+                <div class="footer__social">
+                    <a href="https://www.instagram.com/makoed_v/"><img src="/static/img/instagram.svg" alt="link to instagram"></a>
+                    <a href="https://web.telegram.org/k/"><img src="/static/img/telegram.svg" alt="link to telegram"></a>
+                    <a href="viber://chat?number=%2B375256756976"><img src="/static/img/viber.png" alt="link to viber" width="23" height="23"></a>
+                </div>
+            </div>
+            <div class="footer__menu">
+                <div class="footer__menu--list">
+                    <p>Ссылки</p>
+                    <ul>
+                        <li><a href="/items">ᐅ КАТАЛОГ</a></li>
+                        <li><a href="/history">ᐅ О КОМПАНИИ</a></li>
+                        <li><a href="/payment">ᐅ ОПЛАТА</a></li>
+                        <li><a href="/delivery">ᐅ ДОСТАВКА</a></li>
+                    </ul>
+                </div>
+                <div class="footer__menu--list">
+                    <p>Связь с нами</p>
+                    <ul>
+                        <li><a href="/contact">✆ Беларусь, Брестская область, г.Пинск, Улица Тызенгауза, 4</a></li>
+                        <li><a href="/contact">✉ smarthome@gmail.com</a></li>
+                        <li><a href="/contact ">☏ +375 (25) 675-69-76</a></li>
+                    </ul>
+                </div>
+                <div class="footer__menu--list">
+                    <p>Покупателям</p>
+                    <ul>
+                        <li><a href="#">✔ Юридическая информация</a></li>
+                        <li><a href="#">✔ Обработка персональных данных</a></li>
+                        <li><a href="#">✔ Программа лояльности</a></li>
+                        <li><a href="#">✔ Промокоды</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script type="module" src="/static/js/script.js"></script>
+    <script src="/static/js/mobileMenu.js"></script>
+    <script src="/static/js/cartOpenClose.js"></script>
+    <script src="/static/js/shoppingCart.js"></script>
+</body>
+
+</html>

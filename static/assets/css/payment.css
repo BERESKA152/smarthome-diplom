@@ -1,0 +1,137 @@
+.container-fluid{
+    padding: 9px;
+    background-color: #FFFBE9;
+}
+
+
+
+.creditCardForm {
+    max-width: 700px;
+    background-color: #fff;
+    margin: 150px auto;
+    border: 50px;
+    overflow: hidden;
+    padding: 25px;
+    color: #4c4e56;
+    border-radius: 30px;
+    box-shadow: 15px 16px 17px 10px rgba(0,0,0,0.10);
+}
+
+.creditCardForm label {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.creditCardForm .heading h1 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    color: #4c4e56;
+}
+
+.creditCardForm .payment {
+    float: left;
+    font-size: 18px;
+    padding: 10px 25px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.creditCardForm .payment .form-group {
+    float: left;
+    margin-bottom: 15px;
+}
+
+.creditCardForm .payment .form-control {
+    line-height: 40px;
+    height: auto;
+    padding: 0 16px;
+}
+
+.creditCardForm .owner {
+    width: 63%;
+    margin-right: 10px;
+}
+
+.creditCardForm .CVV {
+    width: 35%;
+}
+
+.creditCardForm #card-number-field {
+    width: 100%;
+}
+
+.creditCardForm #expiration-date {
+    width: 49%;
+}
+
+.creditCardForm #credit_cards {
+    width: 50%;
+    margin-top: 25px;
+    text-align: right;
+}
+
+.creditCardForm #pay-now {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.creditCardForm .payment .btn {
+    width: 100%;
+    margin-top: 3px;
+    padding: 14px;
+    font-size: 24px;
+    background-color: #ff0000;
+    color: white;
+    border: 2px solid #ff0000; /* Установите толщину обводки, если она еще не установлена */
+    border-radius: 10px;
+    transition: all 0.3s ease; /* Добавьте плавный переход */
+}
+
+.creditCardForm .payment .btn:hover {
+    background-color: #ffffff; /* Белый фон при наведении */
+    color: #ff0000; /* Красный текст при наведении */
+    border-color: #ff0000; /* Красная обводка при наведении */
+}
+
+
+.creditCardForm .payment select {
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.transparent {
+    opacity: 0.2;
+}
+
+@media(max-width: 650px) {
+    .creditCardForm .owner,
+    .creditCardForm .CVV,
+    .creditCardForm #expiration-date,
+    .creditCardForm #credit_cards {
+        width: 100%;
+    }
+    .creditCardForm #credit_cards {
+        text-align: left;
+    }
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    background-image: none; 
+    border: 1px solid ;
+}
+
+
+
+/*  button 
+<button onclick=”redirectFunction()”>Submit</button> -- form html
+
+function redirectFunction(){                         -- in js
+  window.location.href=”anotherwebpage.html”; 
+} 
+
+*/

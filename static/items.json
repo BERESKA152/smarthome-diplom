@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1000,
+        "name": "Xiaomi Mijia Plus C103",
+        "category": "роботы-пылесосы",
+        "photo": "vacum.png",
+        "price": 579.00
+    },
+    {
+        "id": 1001,
+        "name": "Evolution HF-868",
+        "category": "увлажнители",
+        "photo": "hum.png",
+        "price": 109.00
+    },
+    {
+        "id": 1002,
+        "name": "Smartmi Air Purifier E1",
+        "category": "очистители воздуха",
+        "photo": "pur.png",
+        "price": 359.00
+    },
+    {
+        "id": 1003,
+        "name": "Xiaomi Mi Router AX3200",
+        "category": "wi-fi",
+        "photo": "wifi.png",
+        "price": 249.00
+    },
+    {
+        "id": 1004,
+        "name": "Xiaomi Hub 2",
+        "category": "датчики умного дома",
+        "photo": "sens.png",
+        "price": 159.00
+    },
+    {
+        "id": 1005,
+        "name": "Aqara Smart Plug",
+        "category": "розетки и выключатели",
+        "photo": "socket.png",
+        "price": 65.00
+    },
+    {
+        "id": 1006,
+        "name": "IMILAB C20",
+        "category": "видеонаблюдение",
+        "photo": "camera.png",
+        "price": 199.00
+    },
+    {
+        "id": 1007,
+        "name": "Yandex Alisa 2",
+        "category": "станции",
+        "photo": "yandex.png",
+        "price": 659.00
+    },
+    {
+        "id": 1008,
+        "name": "Yeelight Rechargeable",
+        "category": "светильники и лампы",
+        "photo": "lamp.png",
+        "price": 89.00
+    },
+    {
+        "id": 1009,
+        "name": "Xiaomi Kettle Lite",
+        "category": "чайники",
+        "photo": "tee.png",
+        "price": 189.00
+    },
+    {
+        "id": 1010,
+        "name": "Viomi Air Cross",
+        "category": "кондиционеры",
+        "photo": "kondc.png",
+        "price": 1599.00
+    },
+    {
+        "id": 1011,
+        "name": "Standing Fan 3",
+        "category": "вентиляторы",
+        "photo": "venti.png",
+        "price": 135.00
+    },
+    {
+        "id": 1012,
+        "name": "Evolution I-3035",
+        "category": "отпариватели и утюги",
+        "photo": "utug.png",
+        "price": 99.00
+    },
+    {
+        "id": 1013,
+        "name": "Viomi Master 2",
+        "category": "стиральные машины",
+        "photo": "machine.png",
+        "price": 1699.00
+    },
+    {
+        "id": 1014,
+        "name": "ILIFE T10s LDS",
+        "category": "роботы-пылесосы",
+        "photo": "vacum3.png",
+        "price": 499.00
+    },
+    {
+        "id": 1015,
+        "name": "Deerma F600 Lite",
+        "category": "увлажнители",
+        "photo": "hum2.png",
+        "price": 89.00
+    },
+    {
+        "id": 1016,
+        "name": "Xiaomi Prifier 4 Lite",
+        "category": "очистители воздуха",
+        "photo": "pur1.png",
+        "price": 599.00
+    },
+    {
+        "id": 1017,
+        "name": "Keenetic Skipper 4G KN-2910",
+        "category": "wi-fi",
+        "photo": "wifi1.png",
+        "price": 329.00
+    },
+    {
+        "id": 1018,
+        "name": "Humidity Monitor 2",
+        "category": "датчики умного дома",
+        "photo": "sens1.png",
+        "price": 129.00
+    },
+    {
+        "id": 1019,
+        "name": "Aqara Smart Wall",
+        "category": "розетки и выключатели",
+        "photo": "socket1.png",
+        "price": 81.00
+    },
+    {
+        "id": 1020,
+        "name": "YI Dome Guard",
+        "category": "видеонаблюдение",
+        "photo": "camera1.png",
+        "price": 189.00
+    },
+    {
+        "id": 1021,
+        "name": "Yandex Alisa 2 Lite",
+        "category": "станции",
+        "photo": "yandex1.png",
+        "price": 489.00
+    },
+    {
+        "id": 1022,
+        "name": "Yeelight Folding Z1",
+        "category": "светильники и лампы",
+        "photo": "lamp1.png",
+        "price": 99.00
+    },
+    {
+        "id": 1023,
+        "name": "Xiaomi Kettle Pro",
+        "category": "чайники",
+        "photo": "tee1.png",
+        "price": 239.00
+    },
+    {
+        "id": 1024,
+        "name": "Viomi Air Cross Pro",
+        "category": "кондиционеры",
+        "photo": "kondc1.png",
+        "price": 1749.00
+    },
+    {
+        "id": 1025,
+        "name": "Deerma DEM FD15W",
+        "category": "вентиляторы",
+        "photo": "venti1.png",
+        "price": 149.00
+    },
+    {
+        "id": 1026,
+        "name": "Evolution Handy 1",
+        "category": "отпариватели и утюги",
+        "photo": "otp.png",
+        "price": 199.00
+    },
+    {
+        "id": 1027,
+        "name": "Viomi Master 2 Pro",
+        "category": "стиральные машины",
+        "photo": "machine1.png",
+        "price": 2599.00
+    },
+    {
+        "id": 1028,
+        "name": "Yandex 3",
+        "category": "лампочки",
+        "photo": "lampo.png",
+        "price": 45.00
+    },
+    {
+        "id": 1029,
+        "name": "Dreame F9 Pro",
+        "category": "роботы-пылесосы",
+        "photo": "vacum1.png",
+        "price": 459.00
+    },
+    {
+        "id": 1030,
+        "name": "Deerma F600 Pro",
+        "category": "увлажнители",
+        "photo": "hum3.png",
+        "price": 119.00
+    },
+    {
+        "id": 1031,
+        "name": "Xiaomi Prifier 4 Pro",
+        "category": "очистители воздуха",
+        "photo": "pur2.png",
+        "price": 1099.00
+    },
+    {
+        "id": 1032,
+        "name": "Xiaomi Router AC1200",
+        "category": "wi-fi",
+        "photo": "wifi2.png",
+        "price": 129.00
+    },
+    {
+        "id": 1033,
+        "name": "Humidity Monitor 2 Pro",
+        "category": "датчики умного дома",
+        "photo": "sens2.png",
+        "price": 159.00
+    },
+    {
+        "id": 1034,
+        "name": "YNDX-00540BLK",
+        "category": "розетки и выключатели",
+        "photo": "socket2.png",
+        "price": 99.00
+    },
+    {
+        "id": 1035,
+        "name": "2K Magnetic Mount",
+        "category": "видеонаблюдение",
+        "photo": "camera2.png",
+        "price": 119.00
+    },
+    {
+        "id": 1036,
+        "name": "Yandex Alisa Mini",
+        "category": "станции",
+        "photo": "yandex2.png",
+        "price": 289.00
+    },
+    {
+        "id": 1037,
+        "name": "СXiaomi Lightstrip",
+        "category": "светильники и лампы",
+        "photo": "lamp2.jpg",
+        "price": 99.00
+    },
+    {
+        "id": 1038,
+        "name": "Evolution KG1015S",
+        "category": "чайники",
+        "photo": "tee2.png",
+        "price": 152.00
+    },
+    {
+        "id": 1039,
+        "name": "Viomi 18000BTU",
+        "category": "кондиционеры",
+        "photo": "kondc2.png",
+        "price": 1699.00
+    },
+    {
+        "id": 1040,
+        "name": "Evolution AirLeaf",
+        "category": "вентиляторы",
+        "photo": "venti2.png",
+        "price": 119.00
+    },
+    {
+        "id": 1041,
+        "name": "Evolution I-2227",
+        "category": "отпариватели и утюги",
+        "photo": "utug1.png",
+        "price": 199.00
+    },
+    {
+        "id": 1042,
+        "name": "Samsung Candy",
+        "category": "стиральные машины",
+        "photo": "machine2.png",
+        "price": 1999.00
+    },
+    {
+        "id": 1043,
+        "name": "James Vision",
+        "category": "лампочки",
+        "photo": "lampo1.png",
+        "price": 65.00
+    },
+    {
+        "id": 1044,
+        "name": "Xiaomi s10+",
+        "category": "роботы-пылесосы",
+        "photo": "vacum2.png",
+        "price": 399.00
+    },
+    {
+        "id": 1045,
+        "name": "Dreame Trouver M1",
+        "category": "роботы-пылесосы",
+        "photo": "vacum4.png",
+        "price": 419.00
+    },
+    {
+        "id": 1046,
+        "name": "Xiaomi X20+",
+        "category": "роботы-пылесосы",
+        "photo": "vacum5.png",
+        "price": 609.00
+    },
+    {
+        "id": 1047,
+        "name": "Deerma F600",
+        "category": "увлажнители",
+        "photo": "hum4.png",
+        "price": 99.00
+    },
+    {
+        "id": 1048,
+        "name": "Keenetic Hero 4G+",
+        "category": "wi-fi",
+        "photo": "wifi3.png",
+        "price": 499.00
+    },
+    {
+        "id": 1049,
+        "name": "Dreame L10S Plus",
+        "category": "роботы-пылесосы",
+        "photo": "vacum6.png",
+        "price": 699.00
+    },
+    {
+        "id": 1050,
+        "name": "Smartmi Purifier Lite",
+        "category": "очистители воздуха",
+        "photo": "hum6.png",
+        "price": 49.00
+    },
+    {
+        "id": 1051,
+        "name": "Yeelight Clip J1",
+        "category": "светильники и лампы",
+        "photo": "lamp3.png",
+        "price": 109.00
+    },
+    {
+        "id": 1052,
+        "name": "Xiaomi Smart LED",
+        "category": "светильники и лампы",
+        "photo": "lamp4.png",
+        "price": 139.00
+    },
+    {
+        "id": 1053,
+        "name": "Xiaomi Light Bar",
+        "category": "светильники и лампы",
+        "photo": "lamp5.png",
+        "price": 149.00
+    },
+    {
+        "id": 1054,
+        "name": "Xiaomi Simple",
+        "category": "чайники",
+        "photo": "tee3.png",
+        "price": 99.00
+    },
+    {
+        "id": 1055,
+        "name": "Viomi Air Cross Lite",
+        "category": "кондиционеры",
+        "photo": "kondc3.png",
+        "price": 1699.00
+    }
+]

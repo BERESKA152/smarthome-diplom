@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: normal 18px sans-serif;
+    color: #333;
+    background-color: #eee;
+}
+
+.container-fluid{
+    padding:0;
+    margin:0;
+}
+
+header{
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    padding: 25px 40px;
+    background-color: #3A56B7;
+    overflow: hidden;
+}
+
+header .limiter{
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+header h3{
+    font: normal 24px/1.5 'Open Sans', sans-serif;
+    float: left;
+    color: #fff;
+    margin:0;
+}
+
+header a{
+    color:#fff;
+    float: right;
+    text-decoration: none;
+    display: inline-block;
+    padding: 13px 50px;
+    border-radius: 3px;
+    font: bold 14px/1 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    background-color:#F05283;
+    opacity: 0.9;
+}
+
+header a:hover{
+    color: #fff;
+    text-decoration: none;
+    opacity: 1;
+}
+
+@media (max-width: 850px) {
+
+    header h3{
+        float: none;
+        text-align: center;
+    }
+
+    header a{
+        margin-top: 20px;
+        float: none;
+    }
+
+}
+
+in style.css
+/*  Examples Section */
+.examples {
+	max-width: 700px;
+	background-color: #fff;
+	margin: 0 auto 75px;
+	padding: 30px 50px;
+	color: #4c4e56;
+}
+
+.examples-note{
+    text-align: center;
+    font-size: 14px;
+    max-width: 370px;
+    margin: 0 auto 40px;
+    line-height: 1.7;
+    color: #7a7a7a;
+}
+
+.examples table {
+    margin: 5px 0 0 0;
+    font-size: 14px;
+}
