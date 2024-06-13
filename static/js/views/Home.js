@@ -32,7 +32,7 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/smarthome-diplom/static/yandex2" class="goods__item--01">
+                <a href="/smarthome-diplom/static/catalog/yandex2" class="goods__item--01">
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>
@@ -43,7 +43,7 @@ const Home = async () => {
                 </div>
                 </a>
 
-                <a href="/chainiksimple" class="goods__item--02">
+                <a href="/smarthome-diplom/static/catalog/chainiksimple" class="goods__item--02">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Чайники</p>
@@ -53,7 +53,7 @@ const Home = async () => {
                 <img class="goods__item--pic img-responsive" src="../static/img/chainik.png" alt="">
             </div>
             </a>
-            <a href="/ventilatordeerma" class="goods__item--03">
+            <a href="/smarthome-diplom/static/catalog/ventilatordeerma" class="goods__item--03">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Вентиляторы</p>
@@ -63,7 +63,7 @@ const Home = async () => {
                 <img class="goods__item--pic img-responsive" src="../static/img/ventilator1.png" alt="">
             </div>
             </a>
-            <a href="/robotpol" class="goods__item--04">
+            <a href="/smarthome-diplom/static/catalog/robotpol" class="goods__item--04">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Роботы-пылесосы</p>
@@ -73,7 +73,7 @@ const Home = async () => {
                 <img class="goods__item--pic img-responsive" src="../static/img/polesos1.png" alt="">
             </div>
             </a>
-            <a href="/routerax" class="goods__item--05">
+            <a href="/smarthome-diplom/static/catalog/routerax" class="goods__item--05">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Wi-Fi</p>
