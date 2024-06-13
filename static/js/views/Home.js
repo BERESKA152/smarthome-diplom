@@ -22,7 +22,7 @@ const Home = async () => {
         <div class="container">
             <h1 class="intro__title">SMART HOME</h1>
             <p class="intro__desc">"У нас техника настолько умная, что она даже знает, когда вам нужен кофе"</p>
-            <a href="/history" data-link class="home-page-link">Подробнее</a>
+            <a href="/history"  class="home-page-link">Подробнее</a>
         </div>
     </section>
 
@@ -32,25 +32,18 @@ const Home = async () => {
                 <h2>Рекомендуемые товары</h2>
         </div>
         <div class="container goods__wrapper">
-                <a href="/yandex2" data-link class="goods__item--01"><div class="goods__item">
-                    <div class="goods__item--desc">
-                        <p class="goods__item--tag">Станции</p>
-                        <h3 class="goods__item--title">Умная колонка Яндекс Alisa 2</h3>
-                        <p class="shop__card--price1">BYN 659</p>
-                    </div>
-                    <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
-                </div></a>
+                <div class="goods__item--01">
                 <div class="goods__item">
                     <div class="goods__item--desc">
                         <p class="goods__item--tag">Станции</p>
-                        <h3 class="goods__item--title">Умная колонка Яндекс Alisa 2</h3>
+                        <h3 class="goods__item--title"><a href="/yandex2" data-link> Умная колонка Яндекс Alisa 2</a></h3>
                         <p class="shop__card--price1">BYN 659</p>
                     </div>
                     <img class="goods__item--pic img-responsive" src="../static/img/yandexstn.png" alt="">
                 </div>
-                
+                </div>
 
-                <a href="/smarthome-diplom/static/views/chainiksimple" data-link class="goods__item--02">
+                <a href="/smarthome-diplom/static/catalog/chainiksimple" class="goods__item--02">
             <div class="goods__item">
                 <div class="goods__item--desc">
                     <p class="goods__item--tag">Чайники</p>
