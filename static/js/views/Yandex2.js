@@ -32,7 +32,7 @@ const Yandex2 = async () => {
                             </p>
                         </div>
                         <div class="button-click">
-                            <button class="buttonclick" onclick="location.href='/placing'" data-link>Купить онлайн</button>
+                            <a class="buttonclick" href='/placing'" data-link>Купить онлайн</a>
 
                             <button class="buttonclick shop__card--btn" data-product-add="1007">Добавить в корзину</button>
                         </div>
